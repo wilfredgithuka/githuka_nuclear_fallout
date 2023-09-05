@@ -1,8 +1,6 @@
 ## Githuka Nuclear Fallout Dot Files
 ### A collection of my system's config files incase of a system failure
 
-![fall-out](https://en.wikipedia.org/wiki/Fallout_shelter#/media/File:Fallout_shelter_sign_(US).jpg)
-
 ### System Info
 
 * OS: Arch Linux
@@ -44,7 +42,7 @@ every system format am normally fingers-crossed on whether it shall work. fcitx5
 and works on i3. Some config needs to be done to work with WPS Office suite.
 
 * Read carefully on how to [install](https://wiki.archlinux.org/title/Fcitx5) fcitx5.
-* I start my wm using the startx command, so the follwing needs to be in my environment variables.
+* I start my wm using the startx command, so the following needs to be in my environment variables.
 
 ```
 GTK_IM_MODULE=fcitx
